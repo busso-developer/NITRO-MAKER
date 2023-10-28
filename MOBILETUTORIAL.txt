@@ -12,6 +12,16 @@ then writte: pkg install emacs
 
 then do: pip install -r requirements.txt
 
-then do: emacs 
+then do: emacs NITRO-MAKER/src/gift buyer/tokens.txt tap the second interface and write the token here
+
+then tap the word file at the top left of the page and then with the arrows move till the write "save" and hit enter
+
+then press ctrl and press x on ur phone keyboard
+
+then do bash run.bat 
+
+AND ENJOY UR TOOL!
+
+
 
 
