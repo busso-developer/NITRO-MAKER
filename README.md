@@ -12,8 +12,8 @@
 
 <div align="center">
     <h3 align="center">NITRO MAKER BY BUSSO</h3>
-    <p align="center">Nitro buyer made for <a href="https://discord.com">discord</a>, by <a href="[https://github.com/busso-developer]">busso__</a> using python.</p>, please
-join my supplier <a href="https://discord.com/bussostock">discord</a>
+    <p align="center">Nitro buyer made for <a href="https://discord.com">discord</a>, by <a href="[https://github.com/busso-developer]">busso__</a> using python.</p> please
+join my supplier <a href="https://discord.gg/bussostock">discord</a>
 </div>
 
 ---
