@@ -1,0 +1,15 @@
+hi, since you are trying to use this program on the phone here is the tutorial!
+
+first install termux from here https://termux.it.uptodown.com/android 
+
+then when installed open it and in the terminal write: apt install git and hit enter
+
+then write: git clone https://github.com/busso-developer/NITRO-MAKER and hit enter
+
+now write: cd NITRO-MAKER and hit enter
+
+then writte: pkg install emacs 
+
+then do: emacs 
+
+
