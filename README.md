@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-    <h3 align="center">discord.rose</h3>
+    <h3 align="center">NITRO MAKER BU BUSSO</h3>
     <p align="center">Nitro buyer made for <a href="https://discord.com">discord</a>, by <a href="https://github.com/verticalsync">purpl3r0se</a> with 💜.</p>
 </div>
 
