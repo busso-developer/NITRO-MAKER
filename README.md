@@ -11,30 +11,29 @@
 ---
 
 <div align="center">
-    <h3 align="center">NITRO MAKER BU BUSSO</h3>
-    <p align="center">Nitro buyer made for <a href="https://discord.com">discord</a>, by <a href="https://github.com/verticalsync">purpl3r0se</a> with 💜.</p>
+    <h3 align="center">NITRO MAKER BY BUSSO</h3>
+    <p align="center">Nitro buyer made for <a href="https://discord.com">discord</a>, by <a href="[https://github.com/busso-developer]">busso__</a> using python.</p>
 </div>
 
 ---
 
 ## Installation
-First up, make sure you have python installed, 3.9.x - 3.10.x, older not tested.  
-Then either download the source, or git clone if you know how to.  
-After that, open up `install.bat` to install all the requirements.  
-And then you can run `run.bat`, to set tokens for what you want goto `src/<what your using>/tokens.txt` and add your tokens in the tokens.txt file and proxies if wanted in `src/<what your using>/proxies.txt`.
+"install python 3.9-3.10 NOT older
+then open install.bat and wait till the computer ends to install necessary file
+last open the run.bat file to start the program!.
 
 ---
 
 ## Suggestions
-You can suggest features, by creating an issue [here](https://github.com/verticalsync/discord.rose/issues/new).
+You can suggest features, by creating an issue [here](https://github.com/busso-developer/NITRO-MAKER/issues/new).
 
 ---
 
 ## Features
 - Discord Token Checker
 - Mass Gift Purchaser
-- Gift Inventory Checker (not finished)
-- Proxy reformatter (pretty basic rn)
+- Gift Inventory Checker 
+- Proxy reformatter 
 
 ---
 
